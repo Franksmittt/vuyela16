@@ -6,6 +6,7 @@ import { useState } from 'react';
 
 const navigationItems = [
   { name: 'About Us', href: '/about' },
+  { name: 'Facilities', href: '/facilities' },
   { name: 'Industries', href: '/industries' },
   { name: 'The Vuyela Network', href: '/network' },
 ];
